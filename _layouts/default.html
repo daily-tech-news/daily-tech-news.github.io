@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{% if page.title %}{{page.title}}{% else %}Daily Tech News{% endif %}</title>
+		<link rel="stylesheet" type="text/css" href="/static/style.css" />
+		{% for css_name in page.extra_css %}
+		<link rel="stylesheet" type="text/css" href="/static/{{css_name}}" />
+		{% endfor %}
+		<meta charset="utf-8" />
+	</head>
+	<body>
+		<article>
+			{{ content }}
+		</article>
+
+		<nav>
+			<ul>
+				{% if page.previous.url %} 
+				<li>&larr; <a href="{{page.previous.url}}">{{page.previous.title}}</a> &bull;</li>
+				{% endif %} 
+
+				{% if page.next.url %} 
+				<li> &bull; <a href="{{page.next.url}}">{{page.next.title}}</a> &rarr;</li>
+				{% endif %} 
+			</ul>
+		</nav>
+
+		<footer>
+			<p>
+				<a href="/">Index</a> |
+				<a href="https://github.com/daily-tech-news/daily-tech-news.github.io">Repository</a> |
+				<a href="https://twitter.com/adelarsq">@adelarsq</a>
+			</p>
+			<p class="footnote">
+				The content in this blog is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license.
+			</p>
+		</footer>
+
+
+		{% for script in page.extra_js %}
+		<script type="text/javascript" src="/static/{{script}}"></script>
+		{% endfor %}
+
+	</body>
+</html>

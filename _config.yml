@@ -1,0 +1,8 @@
+layout: default
+url: http://daily-tech-news.github.io/
+title: "Daily Tech News: Daily news about the software and related"
+author: "Adelar da Silva Queiróz"
+excerpt_separator: <!--more-->
+
+gems:
+  - jemoji
