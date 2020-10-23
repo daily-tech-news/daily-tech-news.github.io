@@ -3,7 +3,7 @@ layout: default
 title: Daily Tech News
 ---
 
-# [Daily Tech News](http://daily-tech-news.github.io)
+# [Daily Tech News](http://daily-tech-news.github.io) 📜
 
 Daily news about software and related.
 
