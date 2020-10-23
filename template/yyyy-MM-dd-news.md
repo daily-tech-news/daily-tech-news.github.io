@@ -11,7 +11,7 @@ tags: [news]
 
 - ?
 
-## Annoucements
+## Annoucements 🥁
 
 - ...
 
@@ -20,6 +20,10 @@ tags: [news]
 - ...
 
 ## Articles 📜
+
+- ...
+
+## Videos 🎞
 
 - ...
 

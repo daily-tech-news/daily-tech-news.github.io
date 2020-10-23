@@ -2,8 +2,15 @@
 layout: default
 ---
 
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
 <h1>{{page.title}}</h1>
 
 <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
 
 {{content}}
+
+</body>
