@@ -217,6 +217,11 @@ table td {
   width: 50%;
 }
 
+.imagereference {
+  text-align:center
+  font-size:small
+}
+
 /* Pygments Highlight */
 code .hll { background-color: #ffffcc }
 code  { background: #ffffff; }
