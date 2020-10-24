@@ -210,6 +210,13 @@ table td {
 	vertical-align: top;
 }
 
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Pygments Highlight */
 code .hll { background-color: #ffffcc }
 code  { background: #ffffff; }
