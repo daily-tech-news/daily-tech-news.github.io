@@ -37,8 +37,15 @@ tags: [news]
 
 - ...
 
+## Podcast 🎙
+
+- ...
+
 ## Tools 🛠
 
 - ...
 
+## Libraries 📚
+
+- ...
 
