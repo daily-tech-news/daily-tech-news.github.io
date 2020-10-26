@@ -19,7 +19,7 @@ tags: [news]
 
 ...
 
-- ?
+?
 
 ## Annoucements 🥁
 
@@ -27,7 +27,7 @@ tags: [news]
 
 ## Releases 🥳
 
-- ...
+- []() []()
 
 ## Articles 📜
 
