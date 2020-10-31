@@ -5,14 +5,14 @@ index_title: "News yyyy/MM/dd"
 tags: [news]
 ---
 
-<a href="https://www.reddit.com/r/Art/comments/jh0fhy/midnight_gleam_me_digital_2019/">
+<a href="">
   <img src=""
-     alt="Autumn Brings Her Secrets, digital 3D + photo works, by stereozont"
+     alt=""
      class="image">
 </a>
 
 <div style="text-align:center">
-   <a href="https://www.reddit.com/r/Art/comments/jh0fhy/midnight_gleam_me_digital_2019/">By Stereozont</a>
+   <a href="">By Author</a>
 </div>
 
 ## Quote of the Day 💡
@@ -23,10 +23,11 @@ tags: [news]
 
 ## Annoucements 🥁
 
-- ...
+- [MDN Web Docs evolves! Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform)
 
 ## Releases 🥳
 
+- [actix-web](https://github.com/actix/actix-web) [3.2.0](https://github.com/actix/actix-web/releases/tag/web-v3.2.0) [🦀](https://www.rust-lang.org "#rust")
 - []() []()
 
 ## Articles 📜
