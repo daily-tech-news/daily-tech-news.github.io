@@ -3,6 +3,15 @@ layout: post
 title: "📜 News yyyy/MM/dd"
 index_title: "News yyyy/MM/dd"
 tags: [news]
+[🦀](https://www.rust-lang.org "#rust")
+[✨](https://gleam.run "#gleamlang")
+[💧](https://elixir-lang.org "#elixirlang")
+[🔷](https://fsharp.org "#fsharp #dotnet")
+[☪️ ](https://docs.microsoft.com/en-us/dotnet/csharp "#csharp #dotnet")
+[🍃](https://www.vim.org "#vim") [🍃](https://neovim.io "#neovim")
+[🔶](https://developer.mozilla.org/en-US/docs/Web/JavaScript "#javascript")
+[🔶](https://reactjs.org "#reactjs")
+[🐍](https://www.python.org "#python")
 ---
 
 <a href="">
