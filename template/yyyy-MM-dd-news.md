@@ -13,6 +13,8 @@ tags: [news]
 [🔶](https://reactjs.org "#reactjs")
 [🐍](https://www.python.org "#python")
 [💈](https://www.scala-lang.org "#scala")
+[☕️](https://www.java.com "#java")
+[🔰](https://elm-lang.org)
 ---
 
 <a href="">
