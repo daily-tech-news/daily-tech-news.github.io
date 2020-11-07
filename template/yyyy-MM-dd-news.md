@@ -15,6 +15,7 @@ tags: [news]
 [💈](https://www.scala-lang.org "#scala")
 [☕️](https://www.java.com "#java")
 [🔰](https://elm-lang.org)
+[🗼](https://kotlinlang.org "#kotlin")
 ---
 
 <a href="">
