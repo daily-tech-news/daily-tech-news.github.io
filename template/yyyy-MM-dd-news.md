@@ -16,6 +16,8 @@ tags: [news]
 [☕️](https://www.java.com "#java")
 [🔰](https://elm-lang.org)
 [🗼](https://kotlinlang.org "#kotlin")
+[💤](https://ziglang.org "#ziglang")
+[🌳](https://aws.amazon.com "#aws")
 ---
 
 <a href="">
