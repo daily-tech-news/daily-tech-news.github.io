@@ -18,6 +18,7 @@ tags: [news]
 [🗼](https://kotlinlang.org "#kotlin")
 [💤](https://ziglang.org "#ziglang")
 [🌳](https://aws.amazon.com "#aws")
+[🎯](https://dart.dev "#dartlang")
 ---
 
 <a href="">
