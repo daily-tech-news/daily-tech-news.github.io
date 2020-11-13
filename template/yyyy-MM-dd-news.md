@@ -2,7 +2,7 @@
 layout: post
 title: "📜 News yyyy/MM/dd"
 index_title: "News yyyy/MM/dd"
-tags: [news]
+tags: [news, ]
 [🦀](https://www.rust-lang.org "#rust")
 [✨](https://gleam.run "#gleamlang")
 [💧](https://elixir-lang.org "#elixirlang")
@@ -19,6 +19,8 @@ tags: [news]
 [💤](https://ziglang.org "#ziglang")
 [🌳](https://aws.amazon.com "#aws")
 [🎯](https://dart.dev "#dartlang")
+[🅰️](https://angular.io "#angular")
+[🐚](https://www.zsh.org "#zsh #shell")
 ---
 
 <a href="">
@@ -51,7 +53,7 @@ tags: [news]
 
 ## Videos 🎞
 
-- ...
+- []()
 
 ## Podcast 🎙
 
