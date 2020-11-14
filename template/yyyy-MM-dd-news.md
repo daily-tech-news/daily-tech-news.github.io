@@ -21,6 +21,8 @@ tags: [news, ]
 [🎯](https://dart.dev "#dartlang")
 [🅰️](https://angular.io "#angular")
 [🐚](https://www.zsh.org "#zsh #shell")
+[🦊](https://www.mozilla.org/en-US/firefox "#firefox")
+[📝](https://code.visualstudio.com "#vscode")
 ---
 
 <a href="">
