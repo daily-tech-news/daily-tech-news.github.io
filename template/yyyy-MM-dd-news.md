@@ -25,6 +25,7 @@ tags: [news, dev, webdev]
 [📝](https://code.visualstudio.com "#vscode")
 [📡](https://www.erlang.org "#erlang")
 [🔷](https://www.typescriptlang.org "#typescript")
+[🔻](https://www.ruby-lang.org "#ruby")
 ---
 
 <a href="">
