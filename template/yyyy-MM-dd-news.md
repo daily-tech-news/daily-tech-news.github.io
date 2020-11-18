@@ -28,7 +28,7 @@ tags: [news, dev, webdev]
 [🔻](https://www.ruby-lang.org "#ruby")
 ---
 
-<a href="">
+<a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
   <img src=""
      alt=""
      class="image">
