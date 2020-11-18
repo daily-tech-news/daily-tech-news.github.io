@@ -2,7 +2,7 @@
 layout: post
 title: "📜 News yyyy/MM/dd"
 index_title: "News yyyy/MM/dd"
-tags: [news, ]
+tags: [news, dev, webdev]
 [🦀](https://www.rust-lang.org "#rust")
 [✨](https://gleam.run "#gleamlang")
 [💧](https://elixir-lang.org "#elixirlang")
@@ -23,6 +23,8 @@ tags: [news, ]
 [🐚](https://www.zsh.org "#zsh #shell")
 [🦊](https://www.mozilla.org/en-US/firefox "#firefox")
 [📝](https://code.visualstudio.com "#vscode")
+[📡](https://www.erlang.org "#erlang")
+[🔷](https://www.typescriptlang.org "#typescript")
 ---
 
 <a href="">
