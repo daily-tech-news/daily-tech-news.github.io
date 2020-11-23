@@ -2,7 +2,7 @@
 layout: post
 title: "📜 News yyyy/MM/dd"
 index_title: "News yyyy/MM/dd"
-tags: [news, dev, webdev]
+tags: [news, dev, webdev, mobiledev]
 [🦀](https://www.rust-lang.org "#rust")
 [✨](https://gleam.run "#gleamlang")
 [💧](https://elixir-lang.org "#elixirlang")
@@ -26,6 +26,7 @@ tags: [news, dev, webdev]
 [📡](https://www.erlang.org "#erlang")
 [🔷](https://www.typescriptlang.org "#typescript")
 [🔻](https://www.ruby-lang.org "#ruby")
+[🐦](https://developer.apple.com/swift "#swift")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
