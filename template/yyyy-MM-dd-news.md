@@ -4,11 +4,13 @@ title: "📜 News yyyy/MM/dd"
 index_title: "News yyyy/MM/dd"
 tags: [news, dev, webdev, mobiledev]
 [🦀](https://www.rust-lang.org "#rust")
+[✅](https://vlang.io "#vlang")
 [✨](https://gleam.run "#gleamlang")
 [💧](https://elixir-lang.org "#elixirlang")
 [🔷](https://fsharp.org "#fsharp #dotnet")
 [☪️ ](https://docs.microsoft.com/en-us/dotnet/csharp "#csharp #dotnet")
-[🍃](https://www.vim.org "#vim") [🍃](https://neovim.io "#neovim")
+[🍃](https://www.vim.org "#vim")
+[🍃](https://neovim.io "#neovim")
 [🔶](https://developer.mozilla.org/en-US/docs/Web/JavaScript "#javascript")
 [🔶](https://reactjs.org "#reactjs")
 [🐍](https://www.python.org "#python")
@@ -16,18 +18,21 @@ tags: [news, dev, webdev, mobiledev]
 [☕️](https://www.java.com "#java")
 [🔰](https://elm-lang.org)
 [🗼](https://kotlinlang.org "#kotlin")
-[💤](https://ziglang.org "#ziglang")
+[⚡️](https://ziglang.org "#ziglang")
 [🌳](https://aws.amazon.com "#aws")
 [🎯](https://dart.dev "#dartlang")
 [🅰️](https://angular.io "#angular")
 [🐚](https://www.zsh.org "#zsh #shell")
-[🦊](https://www.mozilla.org/en-US/firefox "#firefox")
 [📝](https://code.visualstudio.com "#vscode")
 [📡](https://www.erlang.org "#erlang")
 [🔷](https://www.typescriptlang.org "#typescript")
 [🔻](https://www.ruby-lang.org "#ruby")
 [🐦](https://developer.apple.com/swift "#swift")
 [🎩](https://www.haskell.org "#haskell")
+[🦊](https://www.mozilla.org/en-US/firefox "#firefox")
+[🌏](https://www.google.com/chrome "#chrome")
+[🐘](https://www.php.net "#php")
+[🐧](https://www.linux.org "#linux")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
