@@ -33,6 +33,8 @@ tags: [news, dev, webdev, mobiledev]
 [🌏](https://www.google.com/chrome "#chrome")
 [🐘](https://www.php.net "#php")
 [🐧](https://www.linux.org "#linux")
+[🍎](https://http://www.apple.com "#apple")
+[🌕](https://www.lua.org "#lua")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
