@@ -59,7 +59,7 @@ tags: [news, dev, webdev, mobiledev]
 
 ## Releases 🥳
 
-- []() []()
+- []()
 
 ## Articles 📜
 
