@@ -19,4 +19,3 @@ Daily news about software and related.
   {% endfor %}
 </ul>
 
-
