@@ -35,6 +35,7 @@ tags: [news, dev, webdev, mobiledev]
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
 [🌕](https://www.lua.org "#lua")
+[🐮](https://isocpp.org "#cpp")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
