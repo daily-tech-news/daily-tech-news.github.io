@@ -1,8 +1,7 @@
-
 Daily Tech #News 🐢
 
-https://daily-tech-news.github.io/2020/12/12/news.html
+https://daily-tech-news.github.io/2020/12/15/news.html
 
 Today with:
-#dev #webdev #mobiledev #gamedev
-#csharp #dartlang #dotnet #elixirlang #emacs #erlang #flutter #fsharp #java #javascript #linux #lua #neovim #python #reactjs #reactnative #rustlang #typescript #vim #vscode
+#dev #webdev #mobiledev
+#cloud #cpp #csharp #dotnet #elixir #firefox #fsharp #java #javascript #pulumi #reactjs #rustlang #swift #typescript #vlang #ziglang
