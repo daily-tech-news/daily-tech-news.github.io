@@ -11,7 +11,7 @@ tags: [news, dev, webdev, mobiledev]
 [☪️ ](https://docs.microsoft.com/en-us/dotnet/csharp "#csharp #dotnet")
 [🍃](https://www.vim.org "#vim")
 [🍃](https://neovim.io "#neovim")
-[🔶](https://developer.mozilla.org/en-US/docs/Web/JavaScript "#javascript")
+[🔶](https://www.ecma-international.org "#javascript")
 [🔶](https://reactjs.org "#reactjs")
 [🐍](https://www.python.org "#python")
 [💈](https://www.scala-lang.org "#scala")
