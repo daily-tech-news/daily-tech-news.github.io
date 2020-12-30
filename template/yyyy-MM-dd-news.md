@@ -35,6 +35,7 @@ tags: [news, dev, webdev, mobiledev]
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
 [🌕](https://www.lua.org "#lua")
+[🐮](https://www.iso.org/standard/74528.html "#c")
 [🐮](https://isocpp.org "#cpp")
 ---
 
