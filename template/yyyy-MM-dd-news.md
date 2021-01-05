@@ -37,6 +37,7 @@ tags: [news, dev, webdev, mobiledev]
 [🌕](https://www.lua.org "#lua")
 [🐮](https://www.iso.org/standard/74528.html "#c")
 [🐮](https://isocpp.org "#cpp")
+[👑](https://nim-lang.org "#nimlang")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
@@ -77,7 +78,7 @@ tags: [news, dev, webdev, mobiledev]
 
 ## Tools 🛠
 
-- ...
+- [PixelCraft](https://github.com/rgab1508/PixelCraft/) - pixel art editor
 
 ### Plugins 🔌
 
