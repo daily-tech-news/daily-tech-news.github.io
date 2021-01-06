@@ -13,6 +13,7 @@ tags: [news, dev, webdev, mobiledev]
 [🍃](https://neovim.io "#neovim")
 [🔶](https://www.ecma-international.org "#javascript")
 [🔶](https://reactjs.org "#reactjs")
+[⚛️ ](https://reactnative.dev "#reactnative")
 [🐍](https://www.python.org "#python")
 [💈](https://www.scala-lang.org "#scala")
 [☕️](https://www.java.com "#java")
@@ -32,8 +33,11 @@ tags: [news, dev, webdev, mobiledev]
 [🦊](https://www.mozilla.org/en-US/firefox "#firefox")
 [🌏](https://www.google.com/chrome "#chrome")
 [🐘](https://www.php.net "#php")
+
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
+[🦋](https://www.microsoft.com/pt-br/windows "#windows")
+
 [🌕](https://www.lua.org "#lua")
 [🐮](https://www.iso.org/standard/74528.html "#c")
 [🐮](https://isocpp.org "#cpp")
@@ -66,7 +70,7 @@ tags: [news, dev, webdev, mobiledev]
 
 ## Articles 📜
 
-- ...
+- []()
 
 ## Videos 🎞
 
@@ -74,17 +78,17 @@ tags: [news, dev, webdev, mobiledev]
 
 ## Podcast 🎙
 
-- ...
+- []()
 
 ## Tools 🛠
 
-- [PixelCraft](https://github.com/rgab1508/PixelCraft/) - pixel art editor
+- []()
 
 ### Plugins 🔌
 
-- ...
+- []()
 
-## Libraries 📚
+## Frameworks/Libraries 📚
 
-- ...
+- []()
 
