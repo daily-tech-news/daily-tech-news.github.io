@@ -60,7 +60,7 @@ tags: [news, dev, webdev, mobiledev]
 
 []()
 
-## Annoucements 🥁
+## News 📰
 
 - []()
 
