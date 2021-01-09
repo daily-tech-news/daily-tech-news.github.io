@@ -38,6 +38,8 @@ tags: [news, dev, webdev, mobiledev]
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
 [🦋](https://www.microsoft.com/pt-br/windows "#windows")
+[🤖](https://www.android.com "#android")
+[📱](https://www.apple.com/ios/ios-14 "#ios")
 
 [🌕](https://www.lua.org "#lua")
 [🐮](https://www.iso.org/standard/74528.html "#c")
