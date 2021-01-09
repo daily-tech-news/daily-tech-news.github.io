@@ -23,6 +23,7 @@ tags: [news, dev, webdev, mobiledev]
 [🌳](https://aws.amazon.com "#aws")
 [🎯](https://dart.dev "#dartlang")
 [🅰️](https://angular.io "#angular")
+[🐚](https://www.gnu.org/software/bash "#bash #shell")
 [🐚](https://www.zsh.org "#zsh #shell")
 [📝](https://code.visualstudio.com "#vscode")
 [📡](https://www.erlang.org "#erlang")
@@ -89,6 +90,14 @@ tags: [news, dev, webdev, mobiledev]
 - []()
 
 ## Frameworks/Libraries 📚
+
+- []()
+
+## Hardware 🖥
+
+- []()
+
+## Cool 😍
 
 - []()
 
