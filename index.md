@@ -12,7 +12,7 @@ Daily news about software and related.
 **News:**
 
 <ul class="posts">
-  {% for post in site.posts reversed %}
+  {% for post in site.posts %}
     {% if post.tags contains "news" %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.index_title }}</a> ({{ post.date | date_to_string }})</li>
     {% endif %}
