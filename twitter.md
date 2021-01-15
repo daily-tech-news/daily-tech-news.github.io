@@ -1,8 +1,8 @@
+Daily #Tech #News 🐳 #dailytechnews
 
-Daily #Tech #News 🐳
-
-https://daily-tech-news.github.io/2020/12/29/news.html
+https://daily-tech-news.github.io/2021/01/14/news.html
 
 Today with:
-#dev #webdev #mobiledev #rustlang #clojure #emacs #rlang #elixirlang #fsharp #dotnet #ruby #rubyonrails
+#news #dev #webdev #mobiledev
+#rustlang #javascript #idrislang #gleamlang #reactnative #java #wildfly #wine #fsharp #dotnet #clang #cpp #typescript #lua #elixirlang
 
