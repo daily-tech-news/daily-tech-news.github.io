@@ -9,8 +9,6 @@ tags: [news, dev, webdev, mobiledev]
 [💧](https://elixir-lang.org "#elixirlang")
 [🔷](https://fsharp.org "#fsharp #dotnet")
 [☪️ ](https://docs.microsoft.com/en-us/dotnet/csharp "#csharp #dotnet")
-[🍃](https://www.vim.org "#vim")
-[🍃](https://neovim.io "#neovim")
 [🔶](https://www.ecma-international.org "#javascript")
 [🔶](https://reactjs.org "#reactjs")
 [⚛️ ](https://reactnative.dev "#reactnative")
@@ -25,7 +23,6 @@ tags: [news, dev, webdev, mobiledev]
 [🅰️](https://angular.io "#angular")
 [🐚](https://www.gnu.org/software/bash "#bash #shell")
 [🐚](https://www.zsh.org "#zsh #shell")
-[📝](https://code.visualstudio.com "#vscode")
 [📡](https://www.erlang.org "#erlang")
 [🔷](https://www.typescriptlang.org "#typescript")
 [🔻](https://www.ruby-lang.org "#ruby")
@@ -34,6 +31,10 @@ tags: [news, dev, webdev, mobiledev]
 [🦊](https://www.mozilla.org/en-US/firefox "#firefox")
 [🌏](https://www.google.com/chrome "#chrome")
 [🐘](https://www.php.net "#php")
+[🌕](https://www.lua.org "#lua")
+[🐮](https://www.iso.org/standard/74528.html "#c")
+[🐮](https://isocpp.org "#cpp")
+[👑](https://nim-lang.org "#nimlang")
 
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
@@ -41,10 +42,10 @@ tags: [news, dev, webdev, mobiledev]
 [🤖](https://www.android.com "#android")
 [📱](https://www.apple.com/ios/ios-14 "#ios")
 
-[🌕](https://www.lua.org "#lua")
-[🐮](https://www.iso.org/standard/74528.html "#c")
-[🐮](https://isocpp.org "#cpp")
-[👑](https://nim-lang.org "#nimlang")
+[📝](https://code.visualstudio.com "#vscode")
+[🍃](https://www.vim.org "#vim")
+[🍃](https://neovim.io "#neovim")
+[🐃](https://www.gnu.org/software/emacs)
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
