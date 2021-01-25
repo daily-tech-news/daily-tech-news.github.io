@@ -35,6 +35,7 @@ tags: [news, dev, webdev, mobiledev]
 [🐮](https://www.iso.org/standard/74528.html "#c")
 [🐮](https://isocpp.org "#cpp")
 [👑](https://nim-lang.org "#nimlang")
+[🌰](https://golang.org "#golang")
 
 [🐧](https://www.linux.org "#linux")
 [🍎](https://http://www.apple.com "#apple")
@@ -46,6 +47,8 @@ tags: [news, dev, webdev, mobiledev]
 [🍃](https://www.vim.org "#vim")
 [🍃](https://neovim.io "#neovim")
 [🐃](https://www.gnu.org/software/emacs)
+
+[🌴](https://git-scm.com/)
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
@@ -88,7 +91,9 @@ tags: [news, dev, webdev, mobiledev]
 
 - []()
 
-## Tools 🛠
+## Show 🎪
+
+### Tools 🛠
 
 - []()
 
