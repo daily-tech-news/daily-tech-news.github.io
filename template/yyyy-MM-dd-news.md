@@ -32,7 +32,7 @@ tags: [news, dev, webdev, mobiledev]
 [🌏](https://www.google.com/chrome "#chrome")
 [🐘](https://www.php.net "#php")
 [🌕](https://www.lua.org "#lua")
-[🐮](https://www.iso.org/standard/74528.html "#c")
+[🐮](https://www.iso.org/standard/74528.html "#clang")
 [🐮](https://isocpp.org "#cpp")
 [👑](https://nim-lang.org "#nimlang")
 [🌰](https://golang.org "#golang")
@@ -63,7 +63,7 @@ tags: [news, dev, webdev, mobiledev]
 
 ## Quote of the Day 💡
 
-""
+_"quote"_
 
 []()
 
