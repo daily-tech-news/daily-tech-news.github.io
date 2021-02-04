@@ -91,17 +91,7 @@ _"quote"_
 
 - []()
 
-## Show 🎪
-
-### Tools 🛠
-
-- []()
-
-### Plugins 🔌
-
-- []()
-
-## Frameworks/Libraries 📚
+## Resources 🎪
 
 - []()
 
