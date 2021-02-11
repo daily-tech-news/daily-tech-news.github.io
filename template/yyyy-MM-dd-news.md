@@ -49,6 +49,7 @@ tags: [news, dev, webdev, mobiledev]
 [🐃](https://www.gnu.org/software/emacs)
 
 [🌴](https://git-scm.com/)
+[🐘](https://www.postgresql.org "#postgresql")
 ---
 
 <a href="https://daily-tech-news.github.io/yyyy/MM/dd/news.html">
